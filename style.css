@@ -1,0 +1,13 @@
+#boite{
+	border: 2px solid darkgreen;
+	padding-left: 5px;
+	margin: 10px;
+}
+.form{
+	display: inline-block;
+	border-radius: 7px; 
+}
+img{
+	width: 70%;
+	height: 40%
+}
